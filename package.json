@@ -1,0 +1,24 @@
+{
+  "name": "photex-nice-nastaliq",
+  "version": "1.0.0",
+  "main": "photex-nice-nastaliq.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Photex-Nice-Nastaliq",
+    "Urdu Fonts",
+    "Urdu Web Fonts"
+  ],
+  "author": "Ubaidullah Ghazi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaazi/photex-nice-nastaliq.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaazi/photex-nice-nastaliq/issues"
+  },
+  "homepage": "https://github.com/Gaazi/photex-nice-nastaliq#readme",
+  "description": ""
+}
