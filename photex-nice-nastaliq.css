@@ -1,6 +1,5 @@
 @font-face {
   font-family: "Photex-Nice-Nastaliq";
-  
   src: url(https://cdn.jsdelivr.net/npm/photex-nice-nastaliq/fonts/photex-nice-nastaliq.woff2) format('woff2'),
        url(https://unpkg.com/photex-nice-nastaliq/fonts/photex-nice-nastaliq.woff2) format('woff2');
 }
